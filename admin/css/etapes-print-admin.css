@@ -1,0 +1,49 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+#etapes_print_select_multiple {
+  width: 100%;
+  height: 200px;
+}
+
+#etapes_print_format_default_value {
+  width: 100;
+}
+
+#etapes_print_product_data div.options_group p.form-field label {
+  font-weight: bold;
+}
+
+/* Styles */
+.etapes_print_input {
+  display: inline-block;
+}
+
+.etapes_print_input.price_debugger {
+  width: 100%;
+}
+
+.etapes_print_input.delivery_price {
+  width: 100px;
+}
+
+.etapes_print_input.price_array {
+  width: 100%
+}
+
+.etapes_print_input.default_quantity {
+  width: 100px;
+}
+
+.etapes_print_input.delay_delivery {
+  width: 100px;
+}
+
+button.etapes_print_button {
+  margin-top: 3em;
+}
+
+.etapes_print_select_input {
+  width: 100%;
+}
